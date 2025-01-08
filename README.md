@@ -62,6 +62,10 @@
 
 ###
 
+<h3 align="left">GitHub Stats</h3>
+
+###
+
 <img src="https://raw.githubusercontent.com/mahbubHossen-dev/mahbubHossen-dev/output/snake.svg" alt="Snake animation" />
 
 ###
