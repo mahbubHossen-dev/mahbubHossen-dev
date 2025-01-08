@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm a passionate **Frontend Developer** dedicated to building modern, responsive, user-friendly web applications.</p>
+<h4 align="left">Front-end Developer</h4>
 
 ###
 
@@ -16,7 +16,15 @@
 
 ###
 
-<p align="left">🚀 **Junior Frontend Developer** specializing in React.js, Tailwind CSS, and JavaScript (ES6+).<br>🌱 Currently learning MongoDB to expand my skills in full-stack development.<br>🎨 Focused on creating seamless UI/UX with clean and reusable code.<br>🌐 Enthusiastic about learning and staying updated with the latest web technologies.<br>🎯 My goal is to become a **Senior Developer** within 1 year.</p>
+<p align="left">Hello! I am Mahbub Hossen, a passionate frontend developer and tech enthusiast. I love exploring new technologies and building projects that solve real-world problems. Currently, I am diving deep into web development, particularly with **React**.</p>
+
+###
+
+<h3 align="left">Current Work & Activities</h3>
+
+###
+
+<p align="left">🚀 **Junior Frontend Developer** specializing in React.js, Tailwind CSS, and JavaScript (ES6+).<br>🌱 Learning MongoDB to expand my skills in full-stack development.<br>🎨 Focused on creating seamless UI/UX with clean and reusable code.<br>🌐 Enthusiastic about learning and staying updated with the latest web technologies.<br>🎯 My goal is to become a **Senior Developer** within 1 year.</p>
 
 ###
 
@@ -42,12 +50,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <h3 align="left">Social</h3>
 
 ###
@@ -57,5 +59,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mahbubHossen-dev/mahbubHossen-dev/output/snake.svg" alt="Snake animation" />
 
 ###
