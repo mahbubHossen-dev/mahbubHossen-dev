@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 **Junior Frontend Developer** specializing in React.js, Tailwind CSS, and JavaScript (ES6+).<br>🌱 Currently learning MongoDB to expand my skills in full-stack development.<br>🎨 Focused on creating seamless UI/UX with clean and reusable code.<br>🌐 Enthusiastic about learning and staying updated with the latest web technologies.<br>- 🎯 My goal is to become a **Senior Developer** within 1 year.</p>
+<p align="left">🚀 **Junior Frontend Developer** specializing in React.js, Tailwind CSS, and JavaScript (ES6+).<br>🌱 Currently learning MongoDB to expand my skills in full-stack development.<br>🎨 Focused on creating seamless UI/UX with clean and reusable code.<br>🌐 Enthusiastic about learning and staying updated with the latest web technologies.<br>🎯 My goal is to become a **Senior Developer** within 1 year.</p>
 
 ###
 
