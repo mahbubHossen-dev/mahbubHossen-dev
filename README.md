@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hello! I am Mahbub Hossen, a passionate frontend developer and tech enthusiast. I love exploring new technologies and building projects that solve real-world problems. Currently, I am diving deep into web development, particularly with **React**.</p>
+<p align="left">I am a passionate frontend developer and tech enthusiast. I love exploring new technologies and building projects that solve real-world problems. Currently, I am diving deep into web development, particularly with **React**.</p>
 
 ###
 
