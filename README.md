@@ -66,10 +66,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahbubHossen-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubHossen-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+<img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
+</p>
+
+<p align=left>
+      <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
+      <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="NirZak Readme Stats" />
+</p> 
 
 ###
 
