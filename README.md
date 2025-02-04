@@ -70,5 +70,12 @@
       <img  width=400 src="https://github-readme-stats.vercel.app/api?username=mahbubHossen-dev&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
       <img  width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubHossen-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="NirZak Readme Stats" />
 
+<table>
+  <tr>
+    <td><img width="400" src="https://github-readme-stats.vercel.app/api?username=mahbubHossen-dev&theme=tokyonight&hide_border=true"/></td>
+    <td><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubHossen-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"/></td>
+  </tr>
+</table>
+
 
 
