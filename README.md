@@ -66,10 +66,6 @@
 
 ###
 
-<p align="left">
-<img alt="Metric Stats" src="https://github.com/nirzak/nirzak/blob/main/github-metrics.svg" />
-</p>
-
 <p align=left>
       <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Nirzak&theme=tokyonight&hide_border=true" alt="NirZak Readme Streak" />
       <img  width=400 src="https://nirzak-stats.vercel.app/api?username=Nirzak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="NirZak Readme Stats" />
