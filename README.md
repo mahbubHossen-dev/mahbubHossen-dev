@@ -35,7 +35,7 @@
 
 ###
 
-<h4 align="left">Fronted</h4>
+<h3 align="left">Fronted</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h4 align="left">Backend</h4>
+<h3 align="left">Backend</h3>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h4 align="left">Tools & Platforms</h4>
+<h3 align="left">Tools & Platforms</h3>
 
 ###
 
