@@ -6,9 +6,6 @@
 
 <h1 align="left">Hi there! 👋 I'm Mahbub Hossen</h1>
 
-###
-
-<h4 align="left">Front-end Developer</h4>
 
 ###
 
