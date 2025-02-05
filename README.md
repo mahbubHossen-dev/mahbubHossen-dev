@@ -50,11 +50,11 @@
 
 ###
 
-<h3 align="right">Backend</h3>
+<h3 align="center">Backend</h3>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -64,11 +64,11 @@
 
 ###
 
-<h3 align="left">Tools & Platforms</h3>
+<h3 align="right">Tools & Platforms</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
