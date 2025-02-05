@@ -105,7 +105,7 @@
 
 ###
 
-<table>
+<table align="center">
   <tr>
     <td><img width="400" src="https://github-readme-stats.vercel.app/api?username=mahbubHossen-dev&theme=tokyonight&hide_border=true"/></td>
     <td><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubHossen-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400"/></td>
@@ -113,8 +113,6 @@
 </table>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahbubHossen-dev&theme=tokyonight&hide_border=true" alt="mahbub172" />
-<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
 
 
 
